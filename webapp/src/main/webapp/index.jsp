@@ -1,4 +1,4 @@
 <h1> Hello Akhil,this is weekly review on Simple DevOps Project finished !!   </h1>
 <h2> Deploying on a kubernetes using ansible for Compunnel Technologies </h2>
 <h2> Glad to see you joined our firm </h2>
-<h1> <div class="tenor-gif-embed" data-postid="11895605" data-share-method="host" data-width="100%" data-aspect-ratio="1.5060240963855422"><a href="https://tenor.com/view/%e0%a4%b6%e0%a5%81%e0%a4%ad%e0%a4%ae%e0%a4%82%e0%a4%97%e0%a4%b2%e0%a4%b9%e0%a5%8b-%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8-subh-mangal-subh-%e0%a4%9c%e0%a4%af%e0%a4%ae%e0%a4%be%e0%a4%a4%e0%a4%be%e0%a4%a6%e0%a5%80-gif-11895605">SubhMangal, जयमातादी,जयश्री, JaiShree, God GIF</a> from <a href="https://tenor.com/search/%E0%A4%B6%E0%A5%81%E0%A4%AD%E0%A4%AE%E0%A4%82%E0%A4%97%E0%A4%B2%E0%A4%B9%E0%A5%8B-gifs">शुभमंगलहो GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>     </h1>
+<h1> <iframe src="https://giphy.com/embed/31MWo1JLKCJfq" width="480" height="478" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/om-31MWo1JLKCJfq">via GIPHY</a></p>    </h1>
